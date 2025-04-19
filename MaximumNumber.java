@@ -6,6 +6,7 @@ public class MaximumNumber {
                 largest = arr[i];
             }
         }
+
         return largest;
     }
     public static void main(String[] args) {
